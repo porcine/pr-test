@@ -2,6 +2,8 @@
 
 cd /home/dkuehn/spack
 
+echo 'This is a useless feature'
+
 backup_dir="/home/dkuehn/castep-project/spack-backups"
 
 files=$(git status | grep modified | cut -d':' -f 2 | cut -d '/' -f7,8 | tr '/' '-')

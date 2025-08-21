@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # useless change
 # another useless change
+# testing 1, 2, ... 3
 
 cd /home/dkuehn/spack
 

@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# useless change
 
 cd /home/dkuehn/spack
 
